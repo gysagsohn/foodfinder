@@ -11,12 +11,11 @@
 
 ### Features
 - App uses the users IP address and create a GEO Location Request to Geoapify That returns users longitude and latitude.
-- Users can search for venues outside of there IP location.
 - App uses the longitude and latitude to make another request to Geoapify and return the appropriate data.
 - Users can then save Food venues to there favourites.
 
 ### Routes
-- "/" Home
+- "/" Home page
 - "/search" Search for Food
 - "/favourites" users favourite venues
 
@@ -30,3 +29,7 @@
 ### Useful Sources
 - <a href="https://apidocs.geoapify.com/docs/places/#about"> Place Location (Geoapify)
 - <a href="https://apidocs.geoapify.com/docs/ip-geolocation/#about"> IP Geolocation (Geoapify)
+
+### Maybe Features
+- Users can search for venues outside of there IP location.
+- Search for things over than food
