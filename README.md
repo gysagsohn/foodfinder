@@ -20,6 +20,13 @@
 - "/search" Search for Food
 - "/favourites" users favourite venues
 
-### State (context) 
-- Users Longitude and Latitude
+### Local Storage 
 - Users favourites
+
+### Context
+- Users Longitude and Latitude
+
+
+### Useful Sources
+- <a href="https://apidocs.geoapify.com/docs/places/#about"> Place Location (Geoapify)
+- <a href="https://apidocs.geoapify.com/docs/ip-geolocation/#about"> IP Geolocation (Geoapify)
